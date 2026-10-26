@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "consuming-rest-apis-javascript",
+      "title": "Consuming REST APIs with JavaScript",
+      "description": "Build a browser interface that consumes the FastAPI task API using JavaScript fetch, JSON, and HTTP methods.",
+      "path": "assignments/consuming-rest-apis-javascript",
+      "dueDate": "2026-11-02"
     }
   ]
 }
